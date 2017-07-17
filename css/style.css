@@ -34,11 +34,16 @@ ul.footer.nav.navbar-nav {
     margin:25px 0;
 }
 
+footer.footer .logo{
+  padding: 50px 0px;
+}
+
 ul.footer.nav.navbar-nav li{
   width: 150px;
   float:left;
   text-align: center;
   font-family: 'freight-text-pro',serif;
+  font-size: 1.25rem;
 }
 
 .footer ul.dropdown-menu {

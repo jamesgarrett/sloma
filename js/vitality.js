@@ -128,10 +128,10 @@ $(document).ready(function() {
 
     // Vide - Video Background Settings
     $('header.video').vide({
-        mp4: "mp4/chicago.mp4",
-        poster: "img/agency/backgrounds/bg-mobile-fallback.jpg"
+        mp4: "https://cosmicjs.imgix.net/450af060-6732-11e7-93bc-378cbd5c667a-chicago.mp4",
+        poster: "img/agency/backgrounds/bg-mobile-fallback.png"
     }, {
-        posterType: 'jpg'
+        posterType: 'png'
     });
 
 })(jQuery); // End of use strict
